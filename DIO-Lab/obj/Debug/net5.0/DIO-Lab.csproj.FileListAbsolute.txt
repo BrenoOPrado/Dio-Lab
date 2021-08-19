@@ -1,0 +1,16 @@
+C:\Users\usr\Desktop\DIO-Lab\bin\Debug\net5.0\DIO-Lab.exe
+C:\Users\usr\Desktop\DIO-Lab\bin\Debug\net5.0\DIO-Lab.deps.json
+C:\Users\usr\Desktop\DIO-Lab\bin\Debug\net5.0\DIO-Lab.runtimeconfig.json
+C:\Users\usr\Desktop\DIO-Lab\bin\Debug\net5.0\DIO-Lab.runtimeconfig.dev.json
+C:\Users\usr\Desktop\DIO-Lab\bin\Debug\net5.0\DIO-Lab.dll
+C:\Users\usr\Desktop\DIO-Lab\bin\Debug\net5.0\ref\DIO-Lab.dll
+C:\Users\usr\Desktop\DIO-Lab\bin\Debug\net5.0\DIO-Lab.pdb
+C:\Users\usr\Desktop\DIO-Lab\obj\Debug\net5.0\DIO-Lab.csproj.AssemblyReference.cache
+C:\Users\usr\Desktop\DIO-Lab\obj\Debug\net5.0\DIO-Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\Desktop\DIO-Lab\obj\Debug\net5.0\DIO-Lab.AssemblyInfoInputs.cache
+C:\Users\usr\Desktop\DIO-Lab\obj\Debug\net5.0\DIO-Lab.AssemblyInfo.cs
+C:\Users\usr\Desktop\DIO-Lab\obj\Debug\net5.0\DIO-Lab.csproj.CoreCompileInputs.cache
+C:\Users\usr\Desktop\DIO-Lab\obj\Debug\net5.0\DIO-Lab.dll
+C:\Users\usr\Desktop\DIO-Lab\obj\Debug\net5.0\ref\DIO-Lab.dll
+C:\Users\usr\Desktop\DIO-Lab\obj\Debug\net5.0\DIO-Lab.pdb
+C:\Users\usr\Desktop\DIO-Lab\obj\Debug\net5.0\DIO-Lab.genruntimeconfig.cache
